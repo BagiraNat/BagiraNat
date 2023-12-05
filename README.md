@@ -1,6 +1,6 @@
 # Natallia
 
-![Header](https://github.com/PrisonBreak8/BagiraNat/blob/main/assets/coin.jpg)
+![Header](./assets/01.webp)
 
 ### 🧰 Languages and Tools
 
